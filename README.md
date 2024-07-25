@@ -16,3 +16,4 @@ average = sum/n;
 printf("Average of the entered integers: %.2f n",average);
 return 0;
 }
+
